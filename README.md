@@ -163,4 +163,4 @@ Whenever you make changes to your app:
 
 ---
 
-This guide covers creating a **React Native** app using **Expo**, pushing your code to **GitHub**, and deploying your app to the **Expo Store** for public use. Let me know if you need further assistance!
+This guide covers creating a **React Native** app using **Expo**, pushing your code to **GitHub**, and deploying your app to the **Expo Store** for public use. 
